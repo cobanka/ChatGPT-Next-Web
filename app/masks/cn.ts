@@ -3,7 +3,7 @@ import { BuiltinMask } from "./typing";
 export const CN_MASKS: BuiltinMask[] = [
   {
     avatar: "1f5bc-fe0f",
-    name: "以文搜图",
+    name: "以1文搜图",
     context: [
       {
         role: "system",
@@ -38,7 +38,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f638",
-    name: "文案写手",
+    name: "文1案写手",
     context: [
       {
         role: "user",
@@ -61,7 +61,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f978",
-    name: "机器学习",
+    name: "机1器学习",
     context: [
       {
         role: "user",
@@ -84,12 +84,12 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f69b",
-    name: "后勤工作",
+    name: "高尔夫教练",
     context: [
       {
         role: "user",
         content:
-          "我要你担任后勤人员。我将为您提供即将举行的活动的详细信息，例如参加人数、地点和其他相关因素。您的职责是为活动制定有效的后勤计划，其中考虑到事先分配资源、交通设施、餐饮服务等。您还应该牢记潜在的安全问题，并制定策略来降低与大型活动相关的风险。我的第一个请求是",
+          "你是资深高尔夫教练。您的职责是为我们高尔夫训练提供专业指导和咨询。我的第一个问题是",
         date: "",
       },
     ],
@@ -107,7 +107,7 @@ export const CN_MASKS: BuiltinMask[] = [
   },
   {
     avatar: "1f469-200d-1f4bc",
-    name: "职业顾问",
+    name: "职业1顾问",
     context: [
       {
         role: "user",
