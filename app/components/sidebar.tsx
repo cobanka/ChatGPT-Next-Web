@@ -125,7 +125,6 @@ export function SideBar(props: { className?: string }) {
           Golf AI Assistant.
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
-          //<ChatGptIcon />
           <SailEagleIcon />
         </div>
       </div>
